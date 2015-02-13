@@ -26,6 +26,7 @@ A collection of conference talks
 + [How Arduino is open-sourcing imagination](http://youtu.be/UoBUXOOdLXY)
 + [What the Tech Industry Has Learned from Linus Torvalds](http://youtu.be/7XTHdcmjenI)
 + [The Myth of the Genius Programmer](The Myth of the Genius Programmer)
++ [Fear of Programming](http://youtu.be/g_ZyRVPY5Wc)
  
 ### Others
 
