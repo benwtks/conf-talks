@@ -9,15 +9,11 @@ A collection of conference talks
 
 + [Who cares about new domain names? We do.](http://youtu.be/YZbbfICteBs)
 
----
-
 ### Polymer and Web Components
 
 + [Polymer and Web Components change everything you know about Web development](http://youtu.be/8OJ7ih8EE7s)
 + [Polymer and the Web Components revolution](http://youtu.be/yRbOSdAe_JU)
 + [Unlock the next era of UI development with Polymer](http://youtu.be/HKrYfrAzqFA)
-
----
 
 ### Vim 
 
@@ -25,16 +21,12 @@ A collection of conference talks
 + [Write code faster: expert-level vim](http://youtu.be/SkdrYWhh-8s)
 + [Impressive Ruby Productivity with Vim and Tmux](http://youtu.be/9jzWDr24UHQ) 
 
---- 
-
 ### Inspiration
 
 + [How Arduino is open-sourcing imagination](http://youtu.be/UoBUXOOdLXY)
 + [What the Tech Industry Has Learned from Linus Torvalds](http://youtu.be/7XTHdcmjenI)
 + [The Myth of the Genius Programmer](The Myth of the Genius Programmer)
  
----
-
 ### Others
 
 + [The Rubyfied Next-Generation Shell](http://youtu.be/QqOrQN0bxNE)
