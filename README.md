@@ -1,5 +1,5 @@
 # conf-talks
-A collection of conference talks
+A collection of conference talks (and some workshops from Treehouse)
  
 ---
 
@@ -20,6 +20,7 @@ A collection of conference talks
 + [Learning Vim in a week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
 + [Write code faster: expert-level vim](http://youtu.be/SkdrYWhh-8s)
 + [Impressive Ruby Productivity with Vim and Tmux](http://youtu.be/9jzWDr24UHQ) 
++ [Harnessing the Power of Vim (workshop)](https://teamtreehouse.com/library/harnessing-the-power-of-vim)
 
 ### Inspiration
 
@@ -35,6 +36,7 @@ A collection of conference talks
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [Hacking with Gems](http://youtu.be/UksbZx4ph8E)
 + [CSS Pre-processors: Sass, Less, & Stylus](https://teamtreehouse.com/library/future-of-web-design-new-york-2013/css-preprocessors-sass-less-stylus)
++ [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
 
 ---
 
