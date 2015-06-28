@@ -66,6 +66,10 @@ A collection of conference talks (and some workshops from Treehouse)
 + [CSS, Accessibility, and You](https://teamtreehouse.com/library/css-accessibility-and-you)
 + [Accessibility is a Design Tool](https://youtu.be/LeWAnR4JPM0)
 
+### Problem solving
+
++ [The Long and Winding Road of Redesigning](https://youtu.be/_aK5tI-478o)
+
 ---
 
 ## Other
