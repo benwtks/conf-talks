@@ -29,6 +29,10 @@ A collection of conference talks (and some workshops from Treehouse)
 + [The Myth of the Genius Programmer](http://youtu.be/0SARbwvhupQ)
 + [Fear of Programming](http://youtu.be/g_ZyRVPY5Wc)
  
+### Accessibility
+
++ [Designing for accessibility](https://youtu.be/AkpMYYh3UbM)
+
 ### Others
 
 + [The Rubyfied Next-Generation Shell](http://youtu.be/QqOrQN0bxNE)
