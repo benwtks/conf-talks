@@ -64,4 +64,10 @@ A collection of conference talks (and some workshops from Treehouse)
 ### Accessibility
 
 + [CSS, Accessibility, and You](https://teamtreehouse.com/library/css-accessibility-and-you)
-+ [Accessibility is a Design Tool](https://youtu.be/LeWAnR4JPM0) 
++ [Accessibility is a Design Tool](https://youtu.be/LeWAnR4JPM0)
+
+---
+
+## Other
+
++ [Lessons from the Lemonade Stand](https://youtu.be/rjp--00cJJE)
