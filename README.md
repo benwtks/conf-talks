@@ -57,6 +57,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Making it in the little leagues](http://youtu.be/_PMK1M7ZxJc)
 + [A Dissatisfied Mind](https://teamtreehouse.com/library/creative-south/a-dissatisfied-mind)
 
-### Other
+### Accessibility
 
 + [CSS, Accessibility, and You](https://teamtreehouse.com/library/css-accessibility-and-you)
++ [Accessibility is a Design Tool](https://youtu.be/LeWAnR4JPM0) 
