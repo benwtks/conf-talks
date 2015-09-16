@@ -21,6 +21,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Write code faster: expert-level vim](http://youtu.be/SkdrYWhh-8s)
 + [Impressive Ruby Productivity with Vim and Tmux](http://youtu.be/9jzWDr24UHQ) 
 + [Harnessing the Power of Vim (workshop)](https://teamtreehouse.com/library/harnessing-the-power-of-vim)
++ [Your First Vim Plugin](https://youtu.be/lwD8G1P52Sk)
 
 ### Inspiration
 
