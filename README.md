@@ -35,6 +35,11 @@ A collection of conference talks (and some workshops from Treehouse)
 
 + [Designing for accessibility](https://youtu.be/AkpMYYh3UbM)
 
+### Git version control
+
++ [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
++ [Everything I Wish I Knew When I Started Using Github](https://youtu.be/KDUtjZHIx44)
+
 ### Others
 
 + [The Rubyfied Next-Generation Shell](http://youtu.be/QqOrQN0bxNE)
@@ -42,7 +47,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [Hacking with Gems](http://youtu.be/UksbZx4ph8E)
 + [CSS Pre-processors: Sass, Less, & Stylus](https://teamtreehouse.com/library/future-of-web-design-new-york-2013/css-preprocessors-sass-less-stylus)
-+ [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
 
 ---
 
