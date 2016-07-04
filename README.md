@@ -5,10 +5,6 @@ A collection of conference talks (and some workshops from Treehouse)
 
 ## Development
 
-### New gTLDs
-
-+ [Who cares about new domain names? We do.](http://youtu.be/YZbbfICteBs)
-
 ### Polymer and Web Components
 
 + [Polymer and Web Components change everything you know about Web development](http://youtu.be/8OJ7ih8EE7s)
@@ -50,6 +46,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Perfectly executing the wrong plan](http://youtu.be/9TJTbRw4ri8)
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [CSS Pre-processors: Sass, Less, & Stylus](https://teamtreehouse.com/library/future-of-web-design-new-york-2013/css-preprocessors-sass-less-stylus)
++ [Who cares about new domain names? We do.](http://youtu.be/YZbbfICteBs)
 
 ---
 
