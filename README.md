@@ -27,10 +27,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [The Myth of the Genius Programmer](http://youtu.be/0SARbwvhupQ)
 + [Fear of Programming](http://youtu.be/g_ZyRVPY5Wc)
  
-### Accessibility
-
-+ [Designing for accessibility](https://youtu.be/AkpMYYh3UbM)
-
 ### Git version control
 
 + [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
@@ -71,6 +67,7 @@ A collection of conference talks (and some workshops from Treehouse)
 
 + [CSS, Accessibility, and You](https://teamtreehouse.com/library/css-accessibility-and-you)
 + [Accessibility is a Design Tool](https://youtu.be/LeWAnR4JPM0)
++ [Designing for accessibility](https://youtu.be/AkpMYYh3UbM)
 
 ### Problem solving
 
