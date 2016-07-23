@@ -37,6 +37,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Hacking with Gems](http://youtu.be/UksbZx4ph8E)
 + [The Rubyfied Next-Generation Shell](http://youtu.be/QqOrQN0bxNE)
 + [ActionCable for Not-Another-Chat-App-Please](https://youtu.be/IeYGfM32Iqs)
++ [...But doesn't Rails Take Care of Security For Me?](https://youtu.be/3P9naxOfUC4)
 
 ### Others
 
