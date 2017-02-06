@@ -46,6 +46,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [CSS Pre-processors: Sass, Less, & Stylus](https://teamtreehouse.com/library/future-of-web-design-new-york-2013/css-preprocessors-sass-less-stylus)
 + [Who cares about new domain names? We do.](http://youtu.be/YZbbfICteBs)
++ [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://youtu.be/JWD1Fpdd4Pc)
 
 ---
 
