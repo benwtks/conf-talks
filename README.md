@@ -43,6 +43,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [ActionCable for Not-Another-Chat-App-Please](https://youtu.be/IeYGfM32Iqs)
 + [...But doesn't Rails Take Care of Security For Me?](https://youtu.be/3P9naxOfUC4)
 + [Turbolinks 5: I Can’t Believe It’s Not Native!](https://youtu.be/SWEts0rlezA)
++ [Do your views know too much?](https://youtu.be/9Hq9kL9pXuI)
 
 ### Others
 
@@ -50,6 +51,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [CSS Pre-processors: Sass, Less, & Stylus](https://teamtreehouse.com/library/future-of-web-design-new-york-2013/css-preprocessors-sass-less-stylus)
 + [Who cares about new domain names? We do.](http://youtu.be/YZbbfICteBs)
++ [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://youtu.be/JWD1Fpdd4Pc)
 
 ---
 
