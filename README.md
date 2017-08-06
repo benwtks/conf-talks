@@ -44,6 +44,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [...But doesn't Rails Take Care of Security For Me?](https://youtu.be/3P9naxOfUC4)
 + [Turbolinks 5: I Can’t Believe It’s Not Native!](https://youtu.be/SWEts0rlezA)
 + [Do your views know too much?](https://youtu.be/9Hq9kL9pXuI)
++ [Refactoring from good to great](https://youtu.be/DC-pQPq0acs)
 
 ### Others
 
