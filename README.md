@@ -20,10 +20,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Your First Vim Plugin](https://youtu.be/lwD8G1P52Sk)
 + [Vim + Tmux](https://youtu.be/5r6yzFEXajQ)
 
-### Emacs
-
-+ [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://youtu.be/JWD1Fpdd4Pc)
-
 ### Inspiration
 
 + [How Arduino is open-sourcing imagination](http://youtu.be/UoBUXOOdLXY)
