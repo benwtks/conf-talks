@@ -11,7 +11,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Polymer and the Web Components revolution](http://youtu.be/yRbOSdAe_JU)
 + [Unlock the next era of UI development with Polymer](http://youtu.be/HKrYfrAzqFA)
 
-### Vim 
+### Vim
 
 + [Learning Vim in a week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
 + [Write code faster: expert-level vim](http://youtu.be/SkdrYWhh-8s)
@@ -19,6 +19,11 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Harnessing the Power of Vim (workshop)](https://teamtreehouse.com/library/harnessing-the-power-of-vim)
 + [Your First Vim Plugin](https://youtu.be/lwD8G1P52Sk)
 + [Vim + Tmux](https://youtu.be/5r6yzFEXajQ)
+
+### Emacs
+
++ [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://youtu.be/JWD1Fpdd4Pc)
++ [Spacemagics, or, Editing With Only A Keyboard Is Cool](https://www.youtube.com/watch?v=QDHTnGltuD0)
 
 ### Inspiration
 
@@ -48,7 +53,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [CSS Pre-processors: Sass, Less, & Stylus](https://teamtreehouse.com/library/future-of-web-design-new-york-2013/css-preprocessors-sass-less-stylus)
 + [Who cares about new domain names? We do.](http://youtu.be/YZbbfICteBs)
-+ [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://youtu.be/JWD1Fpdd4Pc)
 
 ---
 
