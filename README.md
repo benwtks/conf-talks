@@ -24,6 +24,7 @@ A collection of conference talks (and some workshops from Treehouse)
 
 + [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs](https://youtu.be/JWD1Fpdd4Pc)
 + [Spacemagics, or, Editing With Only A Keyboard Is Cool](https://www.youtube.com/watch?v=QDHTnGltuD0)
++ [Getting Started With Org Mode](https://youtu.be/SzA2YODtgK4)
 
 ### Inspiration
 
