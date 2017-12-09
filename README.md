@@ -5,12 +5,6 @@ A collection of conference talks (and some workshops from Treehouse)
 
 ## Development
 
-### Polymer and Web Components
-
-+ [Polymer and Web Components change everything you know about Web development](http://youtu.be/8OJ7ih8EE7s)
-+ [Polymer and the Web Components revolution](http://youtu.be/yRbOSdAe_JU)
-+ [Unlock the next era of UI development with Polymer](http://youtu.be/HKrYfrAzqFA)
-
 ### Vim
 
 + [Learning Vim in a week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
