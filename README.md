@@ -41,6 +41,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Turbolinks 5: I Can’t Believe It’s Not Native!](https://youtu.be/SWEts0rlezA)
 + [Do your views know too much?](https://youtu.be/9Hq9kL9pXuI)
 + [Refactoring from good to great](https://youtu.be/DC-pQPq0acs)
++ [Your front end framework is overkill](https://youtu.be/7YLYZQJZB0E)
 
 ### Others
 
