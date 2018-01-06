@@ -42,6 +42,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Do your views know too much?](https://youtu.be/9Hq9kL9pXuI)
 + [Refactoring from good to great](https://youtu.be/DC-pQPq0acs)
 + [Your front end framework is overkill](https://youtu.be/7YLYZQJZB0E)
++ [A Rail's Developers Intro to Ember](https://youtu.be/fjvNUG_0cjw)
 
 ### Others
 
