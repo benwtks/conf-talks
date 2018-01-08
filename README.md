@@ -43,6 +43,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Refactoring from good to great](https://youtu.be/DC-pQPq0acs)
 + [Your front end framework is overkill](https://youtu.be/7YLYZQJZB0E)
 + [A Rail's Developers Intro to Ember](https://youtu.be/fjvNUG_0cjw)
++ [React.js on rails](https://youtu.be/kTSsZrub5iE)
 
 ### Others
 
