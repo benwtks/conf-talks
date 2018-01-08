@@ -44,6 +44,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Your front end framework is overkill](https://youtu.be/7YLYZQJZB0E)
 + [A Rail's Developers Intro to Ember](https://youtu.be/fjvNUG_0cjw)
 + [React.js on rails](https://youtu.be/kTSsZrub5iE)
++ [Tricks and treats for new developers](https://youtu.be/BZbW8FAvf00)
 
 ### Others
 
