@@ -45,6 +45,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [A Rail's Developers Intro to Ember](https://youtu.be/fjvNUG_0cjw)
 + [React.js on rails](https://youtu.be/kTSsZrub5iE)
 + [Tricks and treats for new developers](https://youtu.be/BZbW8FAvf00)
++ [In Relentless Pursuit of Rest](https://youtu.be/HctYHe-YjnE)
 
 ### Others
 
