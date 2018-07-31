@@ -20,6 +20,9 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Spacemagics, or, Editing With Only A Keyboard Is Cool](https://www.youtube.com/watch?v=QDHTnGltuD0)
 + [Getting Started With Org Mode](https://youtu.be/SzA2YODtgK4)
 
+### Atom
++ [World of Atom, Daniel Hengeveld, Chris Wanstrath, Ben Ogle](https://youtu.be/N8AZFUOBsaw)
+
 ### Inspiration
 
 + [How Arduino is open-sourcing imagination](http://youtu.be/UoBUXOOdLXY)
@@ -58,16 +61,6 @@ A collection of conference talks (and some workshops from Treehouse)
 ---
 
 ## Design
-
-### Material design
-
-+ [Material design: Motion](http://youtu.be/FBD0VlcVS1E)
-+ [Material design principles](http://youtu.be/isYZXwaP3Q4)
-+ [Material design in Google Play](http://youtu.be/ZlY714W4uww)
-
-### User interface
-
-+ [Designing for wearables](http://youtu.be/ea_KCJ2qy6s)
 
 ### Inspiration
 
