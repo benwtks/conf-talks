@@ -47,6 +47,10 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Tricks and treats for new developers](https://youtu.be/BZbW8FAvf00)
 + [In Relentless Pursuit of Rest](https://youtu.be/HctYHe-YjnE)
 
+### Kotlin
+
++ [Introduction to Kotlin](https://youtu.be/X1RVYt2QKQE)
+
 ### Others
 
 + [Perfectly executing the wrong plan](http://youtu.be/9TJTbRw4ri8)
