@@ -50,6 +50,7 @@ A collection of conference talks (and some workshops from Treehouse)
 ### Kotlin
 
 + [Introduction to Kotlin](https://youtu.be/X1RVYt2QKQE)
++ [It's a Kotlin, Kotlin, Kotlin world](https://youtu.be/CtZL_IjR5Ww)
 
 ### Others
 
