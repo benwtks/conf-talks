@@ -21,13 +21,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Getting Started With Org Mode](https://youtu.be/SzA2YODtgK4)
 + [An Introduction to Emacs Lisp](https://youtu.be/2z-YBsd5snY)
 
-### Inspiration
-
-+ [How Arduino is open-sourcing imagination](http://youtu.be/UoBUXOOdLXY)
-+ [What the Tech Industry Has Learned from Linus Torvalds](http://youtu.be/7XTHdcmjenI)
-+ [The Myth of the Genius Programmer](http://youtu.be/0SARbwvhupQ)
-+ [Fear of Programming](http://youtu.be/g_ZyRVPY5Wc)
- 
 ### Git version control
 
 + [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
@@ -52,23 +45,26 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Introduction to Kotlin](https://youtu.be/X1RVYt2QKQE)
 + [It's a Kotlin, Kotlin, Kotlin world](https://youtu.be/CtZL_IjR5Ww)
 
+### Electron
+
++ [Electron: Desktop Apps with Web Languages](https://www.youtube.com/watch?v=FNHBfN8c32U)
++ [Electron: Keeping an ion on it](https://youtu.be/GH3P4nen5hQ)
+
 ### Others
 
 + [Perfectly executing the wrong plan](http://youtu.be/9TJTbRw4ri8)
 + [This is Your Brain on Software](http://youtu.be/v9Gkq9-dnlU)
 + [CSS Pre-processors: Sass, Less, & Stylus](https://teamtreehouse.com/library/future-of-web-design-new-york-2013/css-preprocessors-sass-less-stylus)
-+ [Electron: Desktop Apps with Web Languages](https://www.youtube.com/watch?v=FNHBfN8c32U)
-+ [Electron: Keeping an ion on it](https://youtu.be/GH3P4nen5hQ)
 + [Who cares about new domain names? We do.](http://youtu.be/YZbbfICteBs)
-
++ [How Arduino is open-sourcing imagination](http://youtu.be/UoBUXOOdLXY)
++ [What the Tech Industry Has Learned from Linus Torvalds](http://youtu.be/7XTHdcmjenI)
++ [The Myth of the Genius Programmer](http://youtu.be/0SARbwvhupQ)
++ [Fear of Programming](http://youtu.be/g_ZyRVPY5Wc)
+ 
 ---
 
 ## Design
 
-### Inspiration
-
-+ [Making it in the little leagues](http://youtu.be/_PMK1M7ZxJc)
-+ [A Dissatisfied Mind](https://teamtreehouse.com/library/creative-south/a-dissatisfied-mind)
 
 ### Accessibility
 
@@ -76,13 +72,10 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Accessibility is a Design Tool](https://youtu.be/LeWAnR4JPM0)
 + [Designing for accessibility](https://youtu.be/AkpMYYh3UbM)
 
-### Problem solving
-
-+ [The Long and Winding Road of Redesigning](https://youtu.be/_aK5tI-478o)
-
----
-
 ## Other
 
 + [Lessons from the Lemonade Stand](https://youtu.be/rjp--00cJJE)
++ [The Long and Winding Road of Redesigning](https://youtu.be/_aK5tI-478o)
 + [Aaron Draplin - Adobe Creative Meet Up 2016](https://youtu.be/j5IC-4tG5Mw)
++ [Making it in the little leagues](http://youtu.be/_PMK1M7ZxJc)
++ [A Dissatisfied Mind](https://teamtreehouse.com/library/creative-south/a-dissatisfied-mind)
