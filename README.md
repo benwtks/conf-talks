@@ -45,6 +45,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Introduction to Kotlin](https://youtu.be/X1RVYt2QKQE)
 + [It's a Kotlin, Kotlin, Kotlin world](https://youtu.be/CtZL_IjR5Ww)
 + [Functional Programming with Kotlin](https://youtu.be/eNe5Nokrjdg)
++ [How to Kotlin](https://youtu.be/6P20npkvcb8)
 
 ### Electron
 
