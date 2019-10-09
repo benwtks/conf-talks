@@ -63,7 +63,7 @@ A collection of conference talks (and some workshops from Treehouse)
 + [What the Tech Industry Has Learned from Linus Torvalds](http://youtu.be/7XTHdcmjenI)
 + [The Myth of the Genius Programmer](http://youtu.be/0SARbwvhupQ)
 + [Fear of Programming](http://youtu.be/g_ZyRVPY5Wc)
- 
++ [Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) 
 ---
 
 ## Design
