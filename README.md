@@ -1,5 +1,5 @@
 # conf-talks
-A collection of conference talks (and some workshops from Treehouse)
+A collection of conference talks
  
 ---
 
@@ -10,7 +10,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Learning Vim in a week](https://www.youtube.com/watch?v=_NUO4JEtkDw)
 + [Write code faster: expert-level vim](http://youtu.be/SkdrYWhh-8s)
 + [Impressive Ruby Productivity with Vim and Tmux](http://youtu.be/9jzWDr24UHQ) 
-+ [Harnessing the Power of Vim (workshop)](https://teamtreehouse.com/library/harnessing-the-power-of-vim)
 + [Your First Vim Plugin](https://youtu.be/lwD8G1P52Sk)
 + [Vim + Tmux](https://youtu.be/5r6yzFEXajQ)
 
@@ -20,11 +19,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Spacemagics, or, Editing With Only A Keyboard Is Cool](https://www.youtube.com/watch?v=QDHTnGltuD0)
 + [Getting Started With Org Mode](https://youtu.be/SzA2YODtgK4)
 + [An Introduction to Emacs Lisp](https://youtu.be/2z-YBsd5snY)
-
-### Git version control
-
-+ [Get Together with Git (workshop)](https://teamtreehouse.com/library/get-together-with-git)
-+ [Everything I Wish I Knew When I Started Using Github](https://youtu.be/KDUtjZHIx44)
 
 ### Ruby
 
@@ -47,11 +41,6 @@ A collection of conference talks (and some workshops from Treehouse)
 + [Functional Programming with Kotlin](https://youtu.be/eNe5Nokrjdg)
 + [How to Kotlin](https://youtu.be/6P20npkvcb8)
 
-### Electron
-
-+ [Electron: Desktop Apps with Web Languages](https://www.youtube.com/watch?v=FNHBfN8c32U)
-+ [Electron: Keeping an ion on it](https://youtu.be/GH3P4nen5hQ)
-
 ### Others
 
 + [42 IntelliJ IDEA Tips and Tricks](https://youtu.be/eq3KiAH4IBI)
@@ -64,6 +53,9 @@ A collection of conference talks (and some workshops from Treehouse)
 + [The Myth of the Genius Programmer](http://youtu.be/0SARbwvhupQ)
 + [Fear of Programming](http://youtu.be/g_ZyRVPY5Wc)
 + [Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) 
++ [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
++ [Everything I Wish I Knew When I Started Using Github](https://youtu.be/KDUtjZHIx44)
+
 ---
 
 ## Design
@@ -71,7 +63,6 @@ A collection of conference talks (and some workshops from Treehouse)
 
 ### Accessibility
 
-+ [CSS, Accessibility, and You](https://teamtreehouse.com/library/css-accessibility-and-you)
 + [Accessibility is a Design Tool](https://youtu.be/LeWAnR4JPM0)
 + [Designing for accessibility](https://youtu.be/AkpMYYh3UbM)
 
@@ -81,4 +72,3 @@ A collection of conference talks (and some workshops from Treehouse)
 + [The Long and Winding Road of Redesigning](https://youtu.be/_aK5tI-478o)
 + [Aaron Draplin - Adobe Creative Meet Up 2016](https://youtu.be/j5IC-4tG5Mw)
 + [Making it in the little leagues](http://youtu.be/_PMK1M7ZxJc)
-+ [A Dissatisfied Mind](https://teamtreehouse.com/library/creative-south/a-dissatisfied-mind)
