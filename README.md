@@ -55,6 +55,7 @@ A collection of conference talks
 + [Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) 
 + [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
 + [Everything I Wish I Knew When I Started Using Github](https://youtu.be/KDUtjZHIx44)
++ [How to Talk to Developers](https://youtu.be/l9JXH7JPjR4)
 
 ---
 
